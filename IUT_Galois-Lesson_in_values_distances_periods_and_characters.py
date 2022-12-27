@@ -5,7 +5,7 @@ def inter_universal_teichmuller_character(Galois_rep):
 # Compute the sum of the values in the Galois representation
 character = sum(Galois_rep.values())
 return character
-#Galois_rep is defined in line 21, due to its relevance to the IUT character
+#Galois_rep is defined in line 31, due to its relevance to the IUT character
 
 # Define a function that computes the "inter-universal Teichmuller period" of a Galois representation
 def inter_universal_teichmuller_period(Galois_rep):
