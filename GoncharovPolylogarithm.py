@@ -25,9 +25,9 @@ print(f'Goncharov polylogarithm: {result}')
 #Let's say we want to compute the Goncharov polylogarithm at x = 2 and depth n = 3. We can define these values as follows:
 
 #Example of input & output:
-#x = 2
-#n = 3
+x = 2
+n = 3
 
 #result = goncharov_polylogarithm(x, n)
-#print(f'Goncharov polylogarithm at x = {x} and depth n = {n}: {result}')
+print(f'Goncharov polylogarithm at x = {x} and depth n = {n}: {result}')
 #Goncharov polylogarithm at x = 2 and depth n = 3: 3.7320508075688774
