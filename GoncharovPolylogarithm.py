@@ -4,6 +4,9 @@
 
 import numpy as np
 
+#THIS CODE IS INCOMPLETE, DO NO USE
+
+
 def goncharov_polylog(z, s):
     """Computes the Goncharov polylogarithm of z with symbol s."""
     # Check for special cases where the polylogarithm has a known value
